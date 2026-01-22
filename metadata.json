@@ -1,0 +1,5 @@
+{
+  "name": "Halida Social Face Swap",
+  "description": "A demo application for AI-powered face swapping on video templates.",
+  "requestFramePermissions": []
+}
